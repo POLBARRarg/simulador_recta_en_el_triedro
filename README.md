@@ -1,0 +1,1 @@
+# simulador_recta_en_el_triedro
